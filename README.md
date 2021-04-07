@@ -1,6 +1,6 @@
 # Priority-cache-implementation-with-Doubly-Linked_List
 
-The MyCacheCalculator class, which derives from the BaseFunctionCalculator abstract class, gets rid of being an abstract class by overriding the methods in the abstarct class. In addition, other functions with private access modifier have been added to perform the necessary operations in the classroom.
+The MyCacheCalculator class, which derives from the BaseFunctionCalculator abstract class, gets rid of being an abstract class by overriding the methods in the abstarct class. In addition, other functions with private access modifier have been added to perform the necessary operations in the class.
 
 Project's Basic features
 
