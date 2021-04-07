@@ -1,7 +1,7 @@
 #include <cmath>
-#include "MyCacheCalculator.h"
-#include "Data.h"
-#include "ListNode.h"
+#include "../MyCacheCalculator.h"
+#include "../Data.h"
+#include "../ListNode.h"
 
 typedef struct Data calculatedValues;
 
